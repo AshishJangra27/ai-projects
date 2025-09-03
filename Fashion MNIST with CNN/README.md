@@ -1,13 +1,26 @@
 # Fashion-MNIST Classification with CNN
 
-A simple notebook to classify Fashion-MNIST images using deep learning models.  
-Covers dataset setup, model building, and training with performance monitoring.  
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1uEczDMLAou_OHWA2-xDlIWppSata133l?usp=sharing)
 
-**Steps:**
-1. Dataset preparation (load, normalize, reshape, encode)  
-2. Build models: ANN, Basic CNN, Deeper CNN  
-3. Train models with callbacks for optimization  
-4. Evaluate and compare model performance  
+This project demonstrates **image classification** on the **Fashion-MNIST dataset**.  
+It compares a **basic ANN**, a **simple CNN**, and a **deeper CNN** to highlight the impact of convolutional layers.
+
+---
+
+## Workflow
+1. **Data Loading** – Import Fashion-MNIST dataset via Keras.  
+2. **Preprocessing** – Normalize, reshape images, and one-hot encode labels.  
+3. **Model Building** – Define ANN, Basic CNN, and Deeper CNN architectures.  
+4. **Training with Callbacks** – Use `EarlyStopping` and `ModelCheckpoint`.  
+5. **Evaluation** – Compare performance of different models.  
+
+---
+
+## Tech Stack
+- Python  
+- TensorFlow / Keras  
+- NumPy  
+- Matplotlib  
 
 
-https://colab.research.google.com/drive/1uEczDMLAou_OHWA2-xDlIWppSata133l?usp=sharing
+
