@@ -21,16 +21,18 @@ Click the Colab icon to open the notebooks.
 | 10 | Computer Vision | CIFAR100 with Checkpoint | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1VPv9g1men6XeL1zvTE_-wDdW4fPtMqxi?usp=sharing) |
 | 11 | Computer Vision | CIFAR100 with ResNet50, VGG16 & MobileNetV2 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1i9DMRkn_lrNHq1rUphKIkhSTBlvhVBo_?usp=sharing) |
 | 12 | Computer Vision | Gender Style Transfer with GAN | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1qmqKQGatkZ9UA7HV1RCE-EmeC5bBGwwc?usp=sharing) |
+| 13 | Computer Vision | Fashion-MNIST Classification with CNN | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1uEczDMLAou_OHWA2-xDlIWppSata133l?usp=sharing) |
 
 ---
 
 ## Tech Stack
-- Python
-- TensorFlow / Keras
-- Scikit-learn
-- NumPy / Pandas
-- Matplotlib / Seaborn
+- Python  
+- TensorFlow / Keras  
+- Scikit-learn  
+- NumPy / Pandas  
+- Matplotlib / Seaborn  
 
+---
 
 ## About
 Created and maintained by **Ashish (AI/ML Enthusiast)**  
