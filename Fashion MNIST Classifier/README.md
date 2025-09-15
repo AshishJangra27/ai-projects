@@ -17,3 +17,10 @@
 - TensorFlow / Keras
 - NumPy, Pandas
 - Matplotlib
+
+
+Vizlearn: https://vizlearn.in/
+CNN Visualizer: https://adamharley.com/nn_vis/cnn/3d.html
+MNIST with ANN: https://gemini.google.com/share/a3e2aa44acee
+CIFAR10 with ANN: https://gemini.google.com/share/39228ae8a1e8
+MNIST with CNN: https://gemini.google.com/share/5756846e360c
