@@ -1,11 +1,7 @@
 # Gender Style Transfer
 
-### Notebooks
-- **Style Transfer Implementation**  
-[![Open in Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/ashishjangra27/gender-style-transfer)  
 
-- **GAN Model Training for Face Generation**  
-[![Open in Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/ashishjangra27/face-generation-with-gan)  
+[![Open in Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/ashishjangra27/gender-style-transfer)  
 
 ---
 
