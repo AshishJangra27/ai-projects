@@ -27,6 +27,10 @@ Click the Colab icon to open the notebooks.
 | 16 | Computer Vision | Fashion-MNIST Classification with CNN | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1uEczDMLAou_OHWA2-xDlIWppSata133l?usp=sharing) |
 | 17 | Computer Vision | Fashion-MNIST with Trained Weights | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/16hORasD-xxWQARfA-htxOlsivFRDRHgG?usp=sharing) |
 | 18 | Computer Vision | Gender Classification with MobileNet | [![Open In Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/ashishjangra27/gender-classification-mobilenet) |
+| 19 | Computer Vision | Object Detection with YOLO | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1G5P4Szuz0corBdSpYFPhPAAMgJyupnBs?usp=sharing) |
+
+   
+
 
 
 
