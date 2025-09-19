@@ -26,15 +26,9 @@ The U-Net architecture is well-suited for this task as it effectively captures b
 - Matplotlib  
 - OpenCV / PIL  
 
----
-
-## Example
-
-![Super Resolution Example](https://raw.githubusercontent.com/AshishJangra27/ai-projects/refs/heads/main/Image%20Enhancement%20with%20U-Net/img.png)
 
 ---
 
 ## References
 - **U-Net Paper:** [Ronneberger et al. (2015)](https://arxiv.org/abs/1505.04597)  
 - **Kaggle Notebook:** [Face Resolution Enhancement with U-Net](https://www.kaggle.com/code/ashishjangra27/face-resolution-enhancement-with-unet)  
-- **GitHub Repository:** [AI Projects - U-Net Super Resolution](https://github.com/AshishJangra27/ai-projects/tree/main/Image%20Enhancement%20with%20U-Net)  
