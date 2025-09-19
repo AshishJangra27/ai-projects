@@ -35,4 +35,4 @@ It combines a gender classification model with style transfer techniques and GAN
 - **Classifier Model:** [Gender Classifier - MobileNet](https://www.kaggle.com/models/ashishjangra27/gender-classifier-mobilenet/)  
 - **Style Transfer Notebook:** [Gender Style Transfer](https://www.kaggle.com/code/ashishjangra27/gender-style-transfer)  
 - **GAN Model Training Notebook:** [Face Generation with GAN](https://www.kaggle.com/code/ashishjangra27/face-generation-with-gan)  
-- **Generator Model:** [Face Generator with GAN - GitHub](https://github.com/AshishJangra27/Face-Generator-with-GAN)  
+- **Generator Model:** [Face Generator with GAN - GitHub](https://github.com/AshishJangra27/ai-projects/blob/main/Face%20Generator%20with%20GAN/generator_700.h5)  
