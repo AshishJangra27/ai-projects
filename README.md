@@ -23,9 +23,13 @@ Click the Colab icon to open the notebooks.
 | 12 | Computer Vision | CIFAR100 with Checkpoint | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1VPv9g1men6XeL1zvTE_-wDdW4fPtMqxi?usp=sharing) |
 | 13 | Computer Vision | CIFAR100 with ResNet50, VGG16 & MobileNetV2 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1i9DMRkn_lrNHq1rUphKIkhSTBlvhVBo_?usp=sharing) |
 | 14 | Computer Vision | Gender Style Transfer with GAN | [![Open In Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/ashishjangra27/gender-style-transfer) |
-| 15 | Computer Vision | Fashion-MNIST Classification with CNN | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1uEczDMLAou_OHWA2-xDlIWppSata133l?usp=sharing) |
-| 16 | Computer Vision | Fashion-MNIST with Trained Weights | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/16hORasD-xxWQARfA-htxOlsivFRDRHgG?usp=sharing) |
-| 17 | Computer Vision | Gender Classification with MobileNet | [![Open In Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/ashishjangra27/gender-classification-mobilenet) |
+| 15 | Computer Vision | Image Resolution enhancement with U-Net | [![Open in Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/ashishjangra27/face-resolution-enhancement-with-unet)  |
+| 16 | Computer Vision | Fashion-MNIST Classification with CNN | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1uEczDMLAou_OHWA2-xDlIWppSata133l?usp=sharing) |
+| 17 | Computer Vision | Fashion-MNIST with Trained Weights | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/16hORasD-xxWQARfA-htxOlsivFRDRHgG?usp=sharing) |
+| 18 | Computer Vision | Gender Classification with MobileNet | [![Open In Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/ashishjangra27/gender-classification-mobilenet) |
+
+
+
 
 
 ---
