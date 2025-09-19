@@ -1,7 +1,13 @@
 # Gender Style Transfer
 
-[![Open Style Transfer Notebook](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/ashishjangra27/gender-style-transfer)  
-[![Open GAN Training Notebook](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/ashishjangra27/face-generation-with-gan)
+### Notebooks
+- **Style Transfer Implementation**  
+[![Open in Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/ashishjangra27/gender-style-transfer)  
+
+- **GAN Model Training for Face Generation**  
+[![Open in Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/ashishjangra27/face-generation-with-gan)  
+
+---
 
 This repository contains the code to perform **gender-specific style transfer** on images.  
 It combines a gender classification model with style transfer techniques and GAN-based face generation to create realistic gender-conditioned outputs.
